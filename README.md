@@ -1,3 +1,25 @@
-[Visit the hosted project here](prodigy-intern-t5-weather-gi7mxno8s.vercel.app)
-# Prodigy-Intern-T5-Weather-App
-This Weather App was developed during my internship at Prodigy Infotech using HTML, CSS, and JavaScript. It provides real-time weather updates based on the user's location. The app features a clean and responsive UI, displaying current temperature, humidity, weather conditions, and a multi-day forecast. Weather data is fetched using a weather API.
+[Visit the hosted project here](prodigy-intern-t5-weather-gi7mxno8s.vercel.app/)
+# Weather Web Application
+A simple and responsive Weather Application built using HTML, CSS, and JavaScript, that fetches real-time weather data using an API.
+## Features
+Search weather by city name
+
+Displays temperature, humidity, wind speed, and conditions
+
+Real-time data from a weather API (e.g., OpenWeatherMap)
+
+Clean and responsive UI
+
+Built with vanilla JavaScript (no frameworks)
+
+Deployed on Vercel
+## Tech Stack
+HTML – Structure
+
+CSS – Styling & responsiveness
+
+JavaScript – API calls & DOM manipulation
+
+API: OpenWeatherMap (or whichever you used)
+
+Deployment: Vercel
