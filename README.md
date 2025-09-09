@@ -1,4 +1,4 @@
-[Visit the hosted project here](prodigy-intern-t5-weather-gi7mxno8s.vercel.app/)
+[Visit the hosted project here](https://prodigy-intern-t5-weather-app.vercel.app/)
 # Weather Web Application
 A simple and responsive Weather Application built using HTML, CSS, and JavaScript, that fetches real-time weather data using an API.
 ## Features
